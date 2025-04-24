@@ -1,4 +1,4 @@
-##OpenGL Transformation Modelling Program
+## OpenGL Transformation Modelling Program
 
 Use this command to compile:
 `./build.sh`
